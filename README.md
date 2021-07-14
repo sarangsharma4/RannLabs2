@@ -1,1 +1,3 @@
 # RannLabs2
+In this project we are going to learn how to download youtube videos manually and automatically. For downloading the video automatically we are going to give a post request to the API which will help us to download the video without entering any youtube link.
+At first we will look how to download a youtube video manually. We will be needing a few libraries, first one is pytube which will help us to download youtube videos and the second one is tkinter it will help us to make a GUI in which we will provide the youtube video link and the path. You can see the code named as rannlabs2.py. 
